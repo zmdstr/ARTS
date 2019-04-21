@@ -1,5 +1,7 @@
 # You’re Missing Out on a Better Mac Terminal Experience
 
+[地址](<https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7>)
+
 - Mile 1: Choosing a Shell Application
 
   1. iTerm
