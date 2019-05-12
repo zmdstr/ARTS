@@ -13,3 +13,10 @@ Week 2
 - R [You’re Missing Out on a Better Mac Terminal Experience](https://github.com/zmdstr/ARTS/blob/master/review/You%E2%80%99re%20Missing%20Out%20on%20a%20Better%20Mac%20Terminal%20Experience.md)
 - T [mac 版 navicat 快捷键](https://github.com/zmdstr/tip/blob/master/navicat.md)
 - S [「第 27 讲」Java 常见的垃圾收集器有哪些？|学习笔记](https://mp.weixin.qq.com/s/n-5I1AMOB9gNjlIJ7fDwqA)
+
+Week 3
+
+- A [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- R [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+- T [文本查看](https://github.com/zmdstr/tip/blob/master/linux/%E6%96%87%E6%9C%AC%E6%9F%A5%E7%9C%8B.md)
+- S [「第 28 讲」谈谈你的 GC 调优思路|学习笔记](https://mp.weixin.qq.com/s/6wlkFlSa1Lle_aW5XKmZ8Q)
