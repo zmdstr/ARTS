@@ -20,3 +20,10 @@ Week 3
 - R [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 - T [文本查看](https://github.com/zmdstr/tip/blob/master/linux/%E6%96%87%E6%9C%AC%E6%9F%A5%E7%9C%8B.md)
 - S [「第 28 讲」谈谈你的 GC 调优思路|学习笔记](https://mp.weixin.qq.com/s/6wlkFlSa1Lle_aW5XKmZ8Q)
+
+Week 4(2019.5.26)
+
+- A [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
+- R [Why Kubernetes Is Awesome: A Beginner’s Guide.](https://medium.com/@jandavid.staerk/why-kubernetes-is-awesome-9f7ff0186996)
+- T [关于 tip](https://github.com/zmdstr/tip)
+- S [「第 29 讲」Java内存模型中的 happen-before 是什么？|学习笔记](https://mp.weixin.qq.com/s/UVz4qXw9QaocRuEiUbdnTQ)
